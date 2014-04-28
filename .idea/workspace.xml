@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56c256fe-1f8b-4ed9-b840-76cd596a72db" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="java-todo.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/pom.xml" changelist="56c256fe-1f8b-4ed9-b840-76cd596a72db" time="1398687224392" ignored="false" />
-    <file path="$PROJECT_DIR$/../node-todo/.idea/workspace.xml" changelist="56c256fe-1f8b-4ed9-b840-76cd596a72db" time="1398689962699" ignored="false" />
+    <file path="$PROJECT_DIR$/../node-todo/.idea/workspace.xml" changelist="56c256fe-1f8b-4ed9-b840-76cd596a72db" time="1398690321966" ignored="false" />
     <file path="/.gitignore" changelist="56c256fe-1f8b-4ed9-b840-76cd596a72db" time="1398687442187" ignored="false" />
     <file path="/fragment.java" changelist="56c256fe-1f8b-4ed9-b840-76cd596a72db" time="1398687475198" ignored="false" />
-    <file path="/Dummy.txt" changelist="56c256fe-1f8b-4ed9-b840-76cd596a72db" time="1398689943027" ignored="false" />
+    <file path="/Dummy.txt" changelist="56c256fe-1f8b-4ed9-b840-76cd596a72db" time="1398690006444" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -409,7 +409,11 @@
       <created>1398689952232</created>
       <updated>1398689952233</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First commit">
+      <created>1398690015214</created>
+      <updated>1398690015214</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
